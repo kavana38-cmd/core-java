@@ -1,4 +1,4 @@
-class JuiceRunner{
+class JuiceRunner1{
 public static void main(String[] args) {
 
         Juice j1 = new Juice();
